@@ -1,0 +1,7 @@
+uninstall
+setenv file-script /installoib
+setenv scripting-openiboot true
+setenv opib-hide-menu true
+saveenv
+fs_extract 1 /openiboot.bin 0x09000000
+go

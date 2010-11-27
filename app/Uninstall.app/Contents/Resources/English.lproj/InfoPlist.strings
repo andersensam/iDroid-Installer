@@ -1,0 +1,4 @@
+CFBundleName = "Uninstall";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "Uninstall version 1.0 Copyright 2010 AndersenTech";
+NSHumanReadableCopyright = "Copyright 2010 AndersenTech.";

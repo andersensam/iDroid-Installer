@@ -1,0 +1,4 @@
+CFBundleName = "Server";
+CFBundleShortVersionString = "v1.3";
+CFBundleGetInfoString = "Server version v1.3 Copyright 2010 AndersenTech";
+NSHumanReadableCopyright = "Copyright 2010 AndersenTech.";

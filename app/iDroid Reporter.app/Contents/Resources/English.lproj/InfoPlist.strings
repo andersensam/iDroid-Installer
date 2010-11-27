@@ -1,0 +1,4 @@
+CFBundleName = "iDroid Reporter";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "iDroid Reporter version 1.0 Copyright 2010 AndersenTech";
+NSHumanReadableCopyright = "Copyright 2010 AndersenTech.";

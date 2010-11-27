@@ -1,0 +1,7 @@
+uninstall
+setenv scripting-openiboot false
+setenv opib-hide-menu false
+setenv auto-boot true
+saveenv
+reboot
+

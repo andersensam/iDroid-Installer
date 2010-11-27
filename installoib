@@ -1,0 +1,9 @@
+install
+setenv partition-script 1
+setenv scripting-openiboot false
+setenv scripting-linux 1
+setenv file-script /atech
+setenv auto-boot true
+setenv opib-hide-menu false
+saveenv
+reboot
